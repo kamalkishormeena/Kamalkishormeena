@@ -1,5 +1,9 @@
 ### Hey there, I'm Kamal :wave:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalkishormeena)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkishormeena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalkishormeena&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
 
 </a>

@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there, I'm Kamal :wave:
 
-<!--
-**kamalkishormeena/Kamalkishormeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalkishormeena&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
 
-Here are some ideas to get you started:
+</a>
+<a href="https://linkedin.com/in/kamalkishormeena">
+  <kbd>
+  <img align="left" alt="shumbul's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/kamalkishormeena">
+  <kbd>
+  <img align="left" alt="shumbul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
+<br/>
+  
+- 💬 How to reach me: Drop a hi! message on my [LinkedIn](https://linkedin.com/in/shumbul)
